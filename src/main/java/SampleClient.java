@@ -12,7 +12,7 @@ import org.hl7.fhir.r4.model.Patient;
 import ca.uhn.fhir.context.FhirContext;
 import ca.uhn.fhir.rest.client.api.IGenericClient;
 import ca.uhn.fhir.rest.client.interceptor.LoggingInterceptor;
-
+//test
 public class SampleClient {
 	
 	static String storage;
