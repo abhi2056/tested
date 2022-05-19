@@ -6,7 +6,11 @@
     <artifactId>playground-basic</artifactId>
     <groupId>io.hapifhir.playground</groupId>
     <version>1.0</version>
-
+    <distributionManagement>
+     <repository>
+         
+        </repository>
+    </distributionManagement>
     <dependencies>
         <!-- This dependency includes the core HAPI-FHIR classes -->
         <dependency>
